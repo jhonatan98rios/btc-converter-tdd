@@ -1,0 +1,4162 @@
+import { expect } from 'chai';
+
+let promise = new Promise((res, rej) => {
+    setTimeout(() => {
+        res(true)
+    }, 1000)
+})
+
+describe('Main', () => {
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+   
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.false
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.false
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.false
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.false
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.false
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.false
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.false
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.false
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+    it('should bla bla bla', () => {
+        return promise.then(res => {
+            expect(res).to.be.true
+        })
+    })
+});
